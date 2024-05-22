@@ -2,15 +2,15 @@
 
 ###
 
-<p align="left">My name is Tuna and I'm a Senior Software Developer</p>
+<h3 align="left">My name is Tuna and I'm a Senior Software Developer</h3>
 
 ###
 
-<h3 align="left">I currently work as Backend Developer. My passion is creativity with code, where I transform ideas into amazing solutions. Let's explore this digital journey together!<br><br>👨‍🚀 I'm currently working as Backend Developer<br>👨‍💻 I worked in the backend with: C#, .Net Core, Azure Cloud, AWS, Kafka, Rabbit MQ, DDD, MongoDB, Redis, PostgreSql, MsSql, Design Patterns, MicroServices<br>💬 Ask me about software development and business or research ideas<br>📫 How to reach me: turkgulsun@gmail.com</h3>
+<h4 align="left">I currently work as Backend Developer. My passion is creativity with code, where I transform ideas into amazing solutions. Let's explore this digital journey together!<br><br>👨‍🚀 I'm currently working as Backend Developer<br>👨‍💻 I worked in the backend with: C#, .Net Core, Azure Cloud, AWS, Kafka, Rabbit MQ, DDD, MongoDB, Redis, PostgreSql, MsSql, Design Patterns, MicroServices<br>💬 Ask me about software development and business or research ideas<br>📫 How to reach me: turkgulsun@gmail.com</h4>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h4 align="left">I code with</h4>
 
 ###
 
